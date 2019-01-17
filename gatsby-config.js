@@ -9,7 +9,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Cuộc đời người tu',
-    siteUrl: 'https://cacvitosu.net/',
+    siteUrl: 'https://juliacat.site/',
     rssFeedTitle: 'cuocdoinguoitu',
     rssFeedDescription: 'Đoàn Bình và Cuộc đời người tu',
   },
